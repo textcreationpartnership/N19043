@@ -114,13 +114,13 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:024777_0000_0FC87D123B690BA0"/>
-            <pb facs="tcp:024777_0001_0FC87D13821C19A0"/>
+            <pb facs="unknown:024777_0000_0FC87D123B690BA0"/>
+            <pb facs="unknown:024777_0001_0FC87D13821C19A0"/>
             <p>A SELECTION OF MISCELLANEOUS PIECES, IN VERSE AND PROSE, RESPECTFULLY DEDICATED TO THE YOUTH OF BOTH SEXES. PART I.</p>
             <p>PHILADELPHIA: PRINTED AND SOLD BY DANIEL LAWRENCE, NO. 78. NORTH 4th STREET, NEAR RACE. M.DCC.XCII.</p>
          </div>
          <div type="table_of_contents">
-            <pb facs="tcp:024777_0002_0FC87D14EE7CF0A0"/>
+            <pb facs="unknown:024777_0002_0FC87D14EE7CF0A0"/>
             <list>
                <head>CONTENTS OF PART I.</head>
                <item>
@@ -172,7 +172,7 @@
                </item>
             </list>
             <list>
-               <pb facs="tcp:024777_0003_0FC87D191A404E70"/>
+               <pb facs="unknown:024777_0003_0FC87D191A404E70"/>
                <head>CONTENTS OF PART II.</head>
                <item>
                   <hi>On the Neceſſity of improving Time,</hi> 55</item>
@@ -212,7 +212,7 @@
       <body>
          <div n="1" type="part">
             <div type="poem">
-               <pb facs="tcp:024777_0004_0FC87D1B6BDFFAB8"/>
+               <pb facs="unknown:024777_0004_0FC87D1B6BDFFAB8"/>
                <head>THE MODERN QUAKER.</head>
                <argument>
                   <p>A comparative view of the PRIMITIVE and PRESENT ſtate of the Society of FRIENDS, particularly addreſſed to the Youth. Written in ENGLAND by an Obſerver, and preſented to FRIENDS' Children.</p>
@@ -244,7 +244,7 @@
                   <l>But tho' in ſimple robes array'd,</l>
                   <l>Behold what beauties grace the maid.</l>
                   <l>
-                     <pb n="2" facs="tcp:024777_0005_0FC87D1C727484E8"/>
+                     <pb n="2" facs="unknown:024777_0005_0FC87D1C727484E8"/>
 Upon her lip ſits ſacred truth,</l>
                   <l>Temp'rance gives the bloom of youth;</l>
                   <l>Within her breaſt dwells tranquil peace,</l>
@@ -281,7 +281,7 @@ Upon her lip ſits ſacred truth,</l>
                   <l>That flame celeſtial, which inſpires</l>
                   <l>The ardent ſoul with ſtrong deſires.</l>
                   <l>
-                     <pb n="3" facs="tcp:024777_0006_0FC87D1EBB7CF930"/>
+                     <pb n="3" facs="unknown:024777_0006_0FC87D1EBB7CF930"/>
 But vain my efforts to deſcribe</l>
                   <l>The virtues of this choſen tribe:</l>
                   <l>In their deſcendants can we trace</l>
@@ -321,7 +321,7 @@ But vain my efforts to deſcribe</l>
                   <l>In vain my ſiſters you conceal</l>
                   <l>What ev'ry motion muſt reveal;</l>
                   <l>
-                     <pb n="4" facs="tcp:024777_0007_0FC87D2414FD4A80"/>
+                     <pb n="4" facs="unknown:024777_0007_0FC87D2414FD4A80"/>
 Oh pardon then the friendly care</l>
                   <l>That ſays you are not what you were.</l>
                </lg>
@@ -359,7 +359,7 @@ Oh pardon then the friendly care</l>
                   <l>No laviſh ornament's deny'd,</l>
                   <l>Can Sion's daughters ſtoop to pride?</l>
                   <l>
-                     <pb n="5" facs="tcp:024777_0008_0FC87D28A9C85D88"/>
+                     <pb n="5" facs="unknown:024777_0008_0FC87D28A9C85D88"/>
 Where is the ſweetly timed air,</l>
                   <l>The gentle movements of the fair?</l>
                   <l>The chaſte reſerve, the modeſt grace,</l>
@@ -397,7 +397,7 @@ Where is the ſweetly timed air,</l>
                   <l>Many have fall'n, but yet not all,</l>
                   <l>Some have not bow'd the knee to Baal;</l>
                   <l>
-                     <pb n="6" facs="tcp:024777_0009_0FC87D29EBC1FEF0"/>
+                     <pb n="6" facs="unknown:024777_0009_0FC87D29EBC1FEF0"/>
 Some like fix'd ſtars divinely bright,</l>
                   <l>Shine through this intellectual night;</l>
                   <l>And chief of theſe MARIA thou—</l>
@@ -436,7 +436,7 @@ Some like fix'd ſtars divinely bright,</l>
                   <l>Which ſtrikes the eye but not the heart<g ref="char:punc">▪</g>
                   </l>
                   <l>
-                     <pb n="7" facs="tcp:024777_0010_0FC87D2B6821FCA0"/>
+                     <pb n="7" facs="unknown:024777_0010_0FC87D2B6821FCA0"/>
 Do this my friends, but ſtop not here,</l>
                   <l>Something remains well worth your care.</l>
                   <l>The gems enclos'd in cells of clay</l>
@@ -470,7 +470,7 @@ Do this my friends, but ſtop not here,</l>
                   <l>There is indeed a pow'r within,</l>
                   <l>That can both ſhew, and ſhield from ſin;</l>
                   <l>
-                     <pb n="8" facs="tcp:024777_0011_0FC87D320C533E30"/>
+                     <pb n="8" facs="unknown:024777_0011_0FC87D320C533E30"/>
 Its gentle dictates, if obey'd,</l>
                   <l>Will to the paths of ſafety lead:</l>
                   <l>And ſure its aid is wanting here,</l>
@@ -510,7 +510,7 @@ Its gentle dictates, if obey'd,</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="9" facs="tcp:024777_0012_0FC87D32ED1371A8"/>
+               <pb n="9" facs="unknown:024777_0012_0FC87D32ED1371A8"/>
                <head>AN AFFECTIONATE ADDRESS TO THE YOUTH OF BOTH SEXES,</head>
                <byline>By a Young Woman in England.</byline>
                <lg>
@@ -539,7 +539,7 @@ Its gentle dictates, if obey'd,</l>
                   <l>Who oft have been refreſh'd by goſpel ſhow'rs;</l>
                   <l>What goodly perſons, full of health and eaſe,</l>
                   <l>
-                     <pb n="10" facs="tcp:024777_0013_0FC87D3479A1CCA8"/>
+                     <pb n="10" facs="unknown:024777_0013_0FC87D3479A1CCA8"/>
 Not one among you but are form'd to pleaſe.</l>
                   <l>Are your lamps fill'd with oil? do they burn bright?</l>
                   <l>If not, begin the work this very night;</l>
@@ -577,7 +577,7 @@ Not one among you but are form'd to pleaſe.</l>
                <lg>
                   <l>'Tis true the Church is in a wintry ſtate,</l>
                   <l>
-                     <pb n="11" facs="tcp:024777_0014_0FC87D3A2AA246B0"/>
+                     <pb n="11" facs="unknown:024777_0014_0FC87D3A2AA246B0"/>
 Her Barrenneſs and Poverty are great;</l>
                   <l>Her Judges are remov'd and out of ſight,</l>
                   <l>Her Pillars gone, her Altars broken quite;</l>
@@ -614,7 +614,7 @@ Her Barrenneſs and Poverty are great;</l>
                   <l>By Saints on earth, and Seraphims in heav'n.</l>
                </lg>
                <lg>
-                  <pb n="12" facs="tcp:024777_0015_0FC87D3CA9415EF0"/>
+                  <pb n="12" facs="unknown:024777_0015_0FC87D3CA9415EF0"/>
                   <l>How would my heart expand, could I but ſee</l>
                   <l>The Church come forth from her Captivity;</l>
                   <l>To view her glorious as in antient days,</l>
@@ -650,7 +650,7 @@ Her Barrenneſs and Poverty are great;</l>
                   <l>Baſking themſelves in the bright Goſpel Sun,</l>
                   <l>And own in them a mighty work begun,</l>
                   <l>
-                     <pb n="13" facs="tcp:024777_0016_0FC87D3E9A6C5BC8"/>
+                     <pb n="13" facs="unknown:024777_0016_0FC87D3E9A6C5BC8"/>
 Feel its enliv'ning pow'r to warm their heart,</l>
                   <l>To cheer each wound, and ſtrengthen ev'ry part.</l>
                   <l>A ſight of this would animate me more</l>
@@ -691,7 +691,7 @@ Feel its enliv'ning pow'r to warm their heart,</l>
                   <l>The ſtorms and tempeſts that are ſent</l>
                   <l>At his ſupreme command,</l>
                   <l>
-                     <pb n="14" facs="tcp:024777_0017_0FC87D409689C680"/>
+                     <pb n="14" facs="unknown:024777_0017_0FC87D409689C680"/>
 Will cauſe your heads to bow quite low,</l>
                   <l>Tho' you deep-rooted ſtand.</l>
                </lg>
@@ -739,7 +739,7 @@ Will cauſe your heads to bow quite low,</l>
                </lg>
             </div>
             <div type="poem">
-               <pb facs="tcp:024777_0018_0FC87D43DD746BA8"/>
+               <pb facs="unknown:024777_0018_0FC87D43DD746BA8"/>
                <head>WISDOM, A POEM.</head>
                <lg>
                   <l>WISDOM I ſing: what bearded ſage can chooſe</l>
@@ -767,7 +767,7 @@ Will cauſe your heads to bow quite low,</l>
                   <l>Nor hopeleſs can it ſing, for thou haſt ſpoke,</l>
                   <l>And never was thy gracious promiſe broke;</l>
                   <l>
-                     <pb n="16" facs="tcp:024777_0019_0FC87D49C6F38A80"/>
+                     <pb n="16" facs="unknown:024777_0019_0FC87D49C6F38A80"/>
 Oh let it be remember'd in my ſtrain,</l>
                   <l>That none can ever ſerve the Lord in vain.</l>
                   <l>Come then great patron, and thy will be done,</l>
@@ -803,7 +803,7 @@ Oh let it be remember'd in my ſtrain,</l>
                   <l>When lo! more awful, ſpeaks the eternal word,</l>
                   <l>" Go on, fear not, I'm with thee, I the Lord."</l>
                   <l>
-                     <pb n="17" facs="tcp:024777_0020_0FC87D4AE869AC30"/>
+                     <pb n="17" facs="unknown:024777_0020_0FC87D4AE869AC30"/>
 Obedient now, with faith I take the pen;</l>
                   <l>Awake, ariſe, attend ye ſons of men!</l>
                </lg>
@@ -842,7 +842,7 @@ Obedient now, with faith I take the pen;</l>
                   <l>Why glories this man in intrigues of ſtate,</l>
                   <l>Why that in learn'd harangues and deep debate;</l>
                   <l>
-                     <pb n="18" facs="tcp:024777_0021_0FC87D52B2146B58"/>
+                     <pb n="18" facs="unknown:024777_0021_0FC87D52B2146B58"/>
 Why one in proud philoſophy, and why</l>
                   <l>Another in thy arts, ſweet poetry?—</l>
                   <l>Why this in Cynic, that in Stoic rules,</l>
@@ -880,7 +880,7 @@ Why one in proud philoſophy, and why</l>
                   <l>What ſavage monſters through the deſart roar;</l>
                   <l>What bears the field, or what the lonely wood</l>
                   <l>
-                     <pb n="19" facs="tcp:024777_0022_0FC87D542F197AD8"/>
+                     <pb n="19" facs="unknown:024777_0022_0FC87D542F197AD8"/>
 Of herbs for phyſic, or of plants for food;</l>
                   <l>To know all nature's ſecrets what avails,</l>
                   <l>If in a greater point your knowledge fails?</l>
@@ -916,7 +916,7 @@ Of herbs for phyſic, or of plants for food;</l>
                   <l>And you'll be further ſtill from being wiſe,</l>
                   <l>There are who boaſt (ſo great is human pride)</l>
                   <l>
-                     <pb n="20" facs="tcp:024777_0023_0FC87D556C39F9C8"/>
+                     <pb n="20" facs="unknown:024777_0023_0FC87D556C39F9C8"/>
 Reaſon alone, and laugh at all beſide;</l>
                   <l>Who meaſure all things by its glimm'ring ray,</l>
                   <l>Nor heed the ſun-ſhine of the goſpel-day.</l>
@@ -956,7 +956,7 @@ Reaſon alone, and laugh at all beſide;</l>
                   <l>Thus argue rati'nals, nor will believe</l>
                   <l>Of <hi>Wiſdom</hi> aught beyond what they conceive;</l>
                   <l>
-                     <pb n="21" facs="tcp:024777_0024_0FC87D56F3B03D20"/>
+                     <pb n="21" facs="unknown:024777_0024_0FC87D56F3B03D20"/>
 But know Hilarius, if the pow'r I ſing</l>
                   <l>Finds in thy heart one tender trembling ſtring</l>
                   <l>On which to ſtrike, the muſe may ſtay thee ſoon,</l>
@@ -992,7 +992,7 @@ But know Hilarius, if the pow'r I ſing</l>
                   <l>" Can'ſt thou the Pleiades ſweet influence bind,</l>
                   <l>" Or looſe Orion's bands and rule the wind?</l>
                   <l>
-                     <pb n="22" facs="tcp:024777_0025_0FC87D5F909A84D0"/>
+                     <pb n="22" facs="unknown:024777_0025_0FC87D5F909A84D0"/>
 " Can'ſt thou in ſeaſon bring huge Mazz'roth forth,</l>
                   <l>" Or guide Arcturus o'er the ſtormy north?</l>
                   <l>" Have death's dark gates been open'd to thy ſight,</l>
@@ -1029,7 +1029,7 @@ But know Hilarius, if the pow'r I ſing</l>
                   <l>Her pow'rs exerted may be falſe or true,</l>
                   <l>As good or bad the purpoſe they purſue.</l>
                   <l>
-                     <pb n="23" facs="tcp:024777_0026_0FC87D616CD60ED0"/>
+                     <pb n="23" facs="unknown:024777_0026_0FC87D616CD60ED0"/>
 Falſe is her light, and endleſs may ſhe ſtray</l>
                   <l>When pride in nat'ral knowledge leads the way.</l>
                   <l>But ſure her path when faithful virtue guides,</l>
@@ -1065,7 +1065,7 @@ Falſe is her light, and endleſs may ſhe ſtray</l>
                   <l>That ſun or moon ſhould ſtop thou think'ſt it ſtrange</l>
                   <l>Unleſs the ſyſtem of the ſkies ſhould change;</l>
                   <l>
-                     <pb n="24" facs="tcp:024777_0027_0FC87D62E6D9C148"/>
+                     <pb n="24" facs="unknown:024777_0027_0FC87D62E6D9C148"/>
 But is't not ſtranger, proof of greater pow'r,</l>
                   <l>Thou e'er had'ſt life, or now ſhould'ſt live an hour?</l>
                   <l>Know'ſt thou the nature of the human frame,</l>
@@ -1100,7 +1100,7 @@ But is't not ſtranger, proof of greater pow'r,</l>
                   <l>Vain is all praiſe, unleſs by her 'tis given;</l>
                   <l>Her's is the praiſe of every harp in heav'n!</l>
                   <l>
-                     <pb n="25" facs="tcp:024777_0028_0FC87D6575829008"/>
+                     <pb n="25" facs="unknown:024777_0028_0FC87D6575829008"/>
 Muſic is all her own, ſhe tunes the ſpheres,</l>
                   <l>And ſets to numbers hours, days, months and years,</l>
                   <l>And what is more Hilarius, does impart</l>
@@ -1135,7 +1135,7 @@ Muſic is all her own, ſhe tunes the ſpheres,</l>
                   <l>Which might if granted prove to thee a curſe.</l>
                </lg>
                <lg>
-                  <pb n="26" facs="tcp:024777_0029_0FC87D677563B1B0"/>
+                  <pb n="26" facs="unknown:024777_0029_0FC87D677563B1B0"/>
                   <l>" Teach my beſt Reaſon, Reaſon," he who ſaid,</l>
                   <l>Moſt wiſely thought and moſt devoutly pray'd.</l>
                   <l>Without that <hi>Wiſdom</hi> infinite which guides</l>
@@ -1169,7 +1169,7 @@ Muſic is all her own, ſhe tunes the ſpheres,</l>
                   <l>Attends thy footſteps whereſoe'er they ſtray,</l>
                   <l>Thy path, thy bed, and every ſecret way;</l>
                   <l>
-                     <pb n="27" facs="tcp:024777_0030_0FC87D6D420A08A0"/>
+                     <pb n="27" facs="unknown:024777_0030_0FC87D6D420A08A0"/>
 Flaſhes conviction thro' the proudeſt breaſt,</l>
                   <l>And brings each boaſted virtue to the teſt;</l>
                   <l>Makes manifeſt whate'er is wrong or right,</l>
@@ -1206,7 +1206,7 @@ Flaſhes conviction thro' the proudeſt breaſt,</l>
                   </l>
                   <l>The voice of <hi>Wiſdom</hi> is the voice of God!</l>
                   <l>
-                     <pb n="28" facs="tcp:024777_0031_0FC87D6E2662FEF0"/>
+                     <pb n="28" facs="unknown:024777_0031_0FC87D6E2662FEF0"/>
 Mild as the breath of ſummer, or the gales</l>
                   <l>Of young Favonius o'er the ſmiling vales;</l>
                   <l>Soft as the love-lorn mourner's ſecret ſigh,</l>
@@ -1241,7 +1241,7 @@ Mild as the breath of ſummer, or the gales</l>
                   <l>But bears away ſome tranſitory joy,</l>
                   <l>Some darling hope or viſionary toy,</l>
                   <l>
-                     <pb n="29" facs="tcp:024777_0032_0FC87D6FA9974338"/>
+                     <pb n="29" facs="unknown:024777_0032_0FC87D6FA9974338"/>
 Which fancy form'd, or friendſhip taught to charm,</l>
                   <l>Or nature fondled with embraces warm.</l>
                   <l>This the beſt ſtate the ſons of earth can boaſt,</l>
@@ -1275,7 +1275,7 @@ Which fancy form'd, or friendſhip taught to charm,</l>
                   <l>Can ſweeten ev'ry bleſſing to the taſte,</l>
                   <l>And make amends for all that time can waſte;</l>
                   <l>
-                     <pb n="30" facs="tcp:024777_0033_0FC87D775ED101F0"/>
+                     <pb n="30" facs="unknown:024777_0033_0FC87D775ED101F0"/>
 Whoſe providence our glory can advance</l>
                   <l>From ev'ry ill we call the work of chance;</l>
                   <l>Can ſet us free amidſt a land of ſlaves,</l>
@@ -1313,7 +1313,7 @@ Whoſe providence our glory can advance</l>
                   <l>" Let there be light," and light will inſtant ſhine,</l>
                   <l>And feeble mortals feel the ray divine.</l>
                   <l>
-                     <pb n="31" facs="tcp:024777_0034_0FC87D78AAC56EB0"/>
+                     <pb n="31" facs="unknown:024777_0034_0FC87D78AAC56EB0"/>
 Whether in pleaſure's flow'ry paths we ſtray,</l>
                   <l>Or ſorrowing tread affliction's thorny way;</l>
                   <l>Whether our barks on life's deceitful ſeas</l>
@@ -1349,7 +1349,7 @@ Whether in pleaſure's flow'ry paths we ſtray,</l>
                   <l>Daughter of heav'n who reigns thro' earth and ſeas,</l>
                   <l>And air and ſkies; whoſe beauty, order, eaſe,</l>
                   <l>
-                     <pb n="32" facs="tcp:024777_0035_0FC87D7A2FF44690"/>
+                     <pb n="32" facs="unknown:024777_0035_0FC87D7A2FF44690"/>
 Shines forth in all—complete the glorious plan,</l>
                   <l>And ſway thy ſceptre in the heart of man.</l>
                   <l>Tho' at thy awful taſks we ſhrink diſmay'd,</l>
@@ -1386,7 +1386,7 @@ Shines forth in all—complete the glorious plan,</l>
                   <l>Around theſe bones, now broken and decay'd,</l>
                   <l>The ſtreams of life in various channels play'd.</l>
                   <l>
-                     <pb n="33" facs="tcp:024777_0036_0FC87D8013322F40"/>
+                     <pb n="33" facs="unknown:024777_0036_0FC87D8013322F40"/>
 Perhaps that ſkull, ſo horrible to view,</l>
                   <l>Was ſome fair maid—ye belles as fair as you!</l>
                   <l>Theſe hollow ſockets two bright orbs contain'd,</l>
@@ -1424,7 +1424,7 @@ Perhaps that ſkull, ſo horrible to view,</l>
                   <l>Attend ye fair, ye thoughtleſs and ye gay,</l>
                   <l>For MIRA dy'd upon her nuptial day!</l>
                   <l>
-                     <pb n="34" facs="tcp:024777_0037_0FC87D80E98AD788"/>
+                     <pb n="34" facs="unknown:024777_0037_0FC87D80E98AD788"/>
 The grave, cold bride-groom! claſp'd her in his arms,</l>
                   <l>And the worm rioted upon her charms!</l>
                </lg>
@@ -1468,7 +1468,7 @@ The grave, cold bride-groom! claſp'd her in his arms,</l>
                   <l>The judgment-day alone will make appear.</l>
                </lg>
                <lg>
-                  <pb n="35" facs="tcp:024777_0038_0FC87D8288099E00"/>
+                  <pb n="35" facs="unknown:024777_0038_0FC87D8288099E00"/>
                   <l>How ſilent is this little ſpot of ground—</l>
                   <l>How melancholy looks each object round!</l>
                   <l>Here man, diſſolv'd in ſhatter'd ruin lies,</l>
@@ -1501,7 +1501,7 @@ The grave, cold bride-groom! claſp'd her in his arms,</l>
                   <l>To-morrow, if it comes, ſhall not behold</l>
                   <l>The hours thoſe ſlighted fugitives have told.</l>
                   <l>
-                     <pb n="36" facs="tcp:024777_0039_0FC87D874E0F8878"/>
+                     <pb n="36" facs="unknown:024777_0039_0FC87D874E0F8878"/>
 So quickly gone, and to return no more,</l>
                   <l>No ſpell, no charm, their virtue ſhall reſtore;</l>
                   <l>Yet they had virtues of ſufficient pow'r</l>
@@ -1536,7 +1536,7 @@ So quickly gone, and to return no more,</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="37" facs="tcp:024777_0040_0FC87D8929ECD960"/>
+               <pb n="37" facs="unknown:024777_0040_0FC87D8929ECD960"/>
                <head>The ſick Man's Addreſs to his Candle.</head>
                <lg>
                   <l>THY ſize, bright taper, does ſo quickly waſte,</l>
@@ -1571,7 +1571,7 @@ So quickly gone, and to return no more,</l>
                   <l>So when the lamp of night ſhall dimly burn,</l>
                   <l>And this frail frame to kindred duſt ſhall turn,</l>
                   <l>
-                     <pb n="38" facs="tcp:024777_0041_0FC87D8AA6945F90"/>
+                     <pb n="38" facs="unknown:024777_0041_0FC87D8AA6945F90"/>
 May the rude ſtrife of earth-born paſſions ceaſe,</l>
                   <l>And life's ſhort journey terminate in peace.</l>
                   <l>May then no cares terreſtrial break my reſt,</l>
@@ -1607,7 +1607,7 @@ May the rude ſtrife of earth-born paſſions ceaſe,</l>
                   <l>How ſoon, amidſt theſe faint reſolves,</l>
                   <l>The ſpring of life is o'er;</l>
                   <l>
-                     <pb n="39" facs="tcp:024777_0042_0FC87D9075123268"/>
+                     <pb n="39" facs="unknown:024777_0042_0FC87D9075123268"/>
 How quick each annual ſun revolves!</l>
                   <l>But—youth returns no more!</l>
                   <l>Manhood to youth, and ſoon old age</l>
@@ -1643,7 +1643,7 @@ How quick each annual ſun revolves!</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="40" facs="tcp:024777_0043_0FC87D922D48AAA8"/>
+               <pb n="40" facs="unknown:024777_0043_0FC87D922D48AAA8"/>
                <head>TO-MORROW.</head>
                <lg>
                   <l>TO-MORROW, did'ſt thou ſay!</l>
@@ -1676,7 +1676,7 @@ How quick each annual ſun revolves!</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="41" facs="tcp:024777_0044_0FC87D93A87D20A8"/>
+               <pb n="41" facs="unknown:024777_0044_0FC87D93A87D20A8"/>
                <head>The Wheel of Time.</head>
                <lg>
                   <l>WHILE we are on this rolling Wheel,</l>
@@ -1710,7 +1710,7 @@ How quick each annual ſun revolves!</l>
                   <l>Her ſacred voice we will not hear,</l>
                   <l>Or hearing we will not obey;</l>
                   <l>
-                     <pb n="42" facs="tcp:024777_0045_0FC87D95E65C5BB8"/>
+                     <pb n="42" facs="unknown:024777_0045_0FC87D95E65C5BB8"/>
 For it is ſhe, and nothing leſs,</l>
                   <l>That can direct us how to pray.</l>
                   <l>" Thy kingdom come, thy will be done,"</l>
@@ -1745,7 +1745,7 @@ For it is ſhe, and nothing leſs,</l>
                   <l>I ſold a blooming Negro Boy.</l>
                </lg>
                <lg>
-                  <pb n="43" facs="tcp:024777_0046_0FC87D9B02FA6BB0"/>
+                  <pb n="43" facs="unknown:024777_0046_0FC87D9B02FA6BB0"/>
                   <l>His father's hope, his mother's pride,</l>
                   <l>Tho' black, yet comely to the view;</l>
                   <l>I tore him helpleſs from their ſide,</l>
@@ -1788,7 +1788,7 @@ For it is ſhe, and nothing leſs,</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="44" facs="tcp:024777_0047_0FC87D9BEC3444D8"/>
+               <pb n="44" facs="unknown:024777_0047_0FC87D9BEC3444D8"/>
                <head>THE NEGROE's PRAYER.</head>
                <argument>
                   <p>The following prayer was penned by a Black Man, a ſlave, in the lower part of Virginia, and was pre<g ref="char:EOLhyphen"/>ſented by him to his maſter, which ſtruck him with admiration, and ſurpriſe, as he acknowledged to a Friend.—Written in 1790.</p>
@@ -1819,7 +1819,7 @@ For it is ſhe, and nothing leſs,</l>
                   <l>When will a Moſes for us ſtand,</l>
                   <l>And free us all from Pharaoh's hand?</l>
                   <l>
-                     <pb n="45" facs="tcp:024777_0048_0FC87D9E2DE38348"/>
+                     <pb n="45" facs="unknown:024777_0048_0FC87D9E2DE38348"/>
 What tho' our ſkin be black as jet,</l>
                   <l>Our hair be curl'd, our noſes flat,</l>
                   <l>Muſt we for this no freedom have,</l>
@@ -1866,7 +1866,7 @@ What tho' our ſkin be black as jet,</l>
                </lg>
             </div>
             <div type="poem">
-               <pb n="46" facs="tcp:024777_0049_0FC87DA065A6AC00"/>
+               <pb n="46" facs="unknown:024777_0049_0FC87DA065A6AC00"/>
                <head>The following is the copy of a letter reported to be written by a Clergyman, and addreſſed to a young Woman among the people called Quakers, in London.</head>
                <div type="part">
                   <head>TO LAVINIA.</head>
@@ -1901,7 +1901,7 @@ What tho' our ſkin be black as jet,</l>
                      <l>Such jugling art may change each part of ſpeech,</l>
                      <l>Make water ſpirit, and baptize to teach,</l>
                      <l>
-                        <pb n="47" facs="tcp:024777_0050_0FC87DA66AD66E40"/>
+                        <pb n="47" facs="unknown:024777_0050_0FC87DA66AD66E40"/>
 But if ſuch jargon Jeſus repreſents,</l>
                      <l>The light alone indeed is lent to ſaints;</l>
                      <l>Then in the letter double death we find,</l>
@@ -1937,7 +1937,7 @@ But if ſuch jargon Jeſus repreſents,</l>
                      <l>Enſlav'd by canons, and the partial rules</l>
                      <l>Of Councils, Synods, Colleges and Schools.</l>
                      <l>
-                        <pb n="48" facs="tcp:024777_0051_0FC87DA8DA50E0A0"/>
+                        <pb n="48" facs="unknown:024777_0051_0FC87DA8DA50E0A0"/>
 Thus might mankind (for ſome an ample field)</l>
                      <l>To Circumciſion's ancient cuſtom yield;</l>
                      <l>Or humbly proſtrate in the public ſtreet,</l>
@@ -1973,7 +1973,7 @@ Thus might mankind (for ſome an ample field)</l>
                      <l>Diſcerning truth by its own native light,</l>
                      <l>And by its guidance practis'd what was right:</l>
                      <l>
-                        <pb n="49" facs="tcp:024777_0052_0FC87DAA5C8BC128"/>
+                        <pb n="49" facs="unknown:024777_0052_0FC87DAA5C8BC128"/>
 This ſtate attain'd, prophetic ſigns no more</l>
                      <l>Demand obſervance, as in days of yore.</l>
                      <l>'Tis grace alone, exalted and refin'd,</l>
@@ -2009,7 +2009,7 @@ This ſtate attain'd, prophetic ſigns no more</l>
                   <l>I muſt forget them, and thee too, O Spring!</l>
                   <l>Tho' many a chaplet thou haſt wreath'd for me;</l>
                   <l>
-                     <pb n="50" facs="tcp:024777_0053_0FC87DAC87C22CF0"/>
+                     <pb n="50" facs="unknown:024777_0053_0FC87DAC87C22CF0"/>
 For, now prepar'd to quit th' enchanting ſcenes,</l>
                   <l>Cold, weeping Winter! I come all to thee.</l>
                   <l>Hail to thy rolling clouds and rapid ſtorms!</l>
@@ -2044,7 +2044,7 @@ For, now prepar'd to quit th' enchanting ſcenes,</l>
                   <l>Father of heaven and earth! this change is thine;</l>
                   <l>By thee the ſeaſons in gradation roll,</l>
                   <l>
-                     <pb n="51" facs="tcp:024777_0054_0FC87DB0282BC870"/>
+                     <pb n="51" facs="unknown:024777_0054_0FC87DB0282BC870"/>
 Thou great omniſcient Ruler of the world!</l>
                   <l>The alpha and omega of the whole!</l>
                   <l>Here humbly bow we down our heads to thee!</l>
@@ -2088,7 +2088,7 @@ Thou great omniſcient Ruler of the world!</l>
                   <l>When fell poverty invades us,</l>
                   <l>And our lot is ſlaves to be;</l>
                   <l>
-                     <pb n="52" facs="tcp:024777_0055_0FC87DB47B1D3590"/>
+                     <pb n="52" facs="unknown:024777_0055_0FC87DB47B1D3590"/>
 Reaſon tells us, bear with patience;</l>
                   <l>Time will come we ſhall be free.</l>
                </lg>
@@ -2130,7 +2130,7 @@ Reaſon tells us, bear with patience;</l>
                   <l>And view'd the fields and waving grain<g ref="char:punc">▪</g>
                   </l>
                   <l>
-                     <pb n="53" facs="tcp:024777_0056_0FC87DB5A8CF99F0"/>
+                     <pb n="53" facs="unknown:024777_0056_0FC87DB5A8CF99F0"/>
 The flow'ry mead, thy leafy grove,</l>
                   <l>Where all is melody and love?</l>
                   <l>Haſt thou e'er trod the ſandy ſhore,</l>
@@ -2164,7 +2164,7 @@ The flow'ry mead, thy leafy grove,</l>
                   <l>'Tis he that bids the tempeſt riſe,</l>
                   <l>And rolls the thunder thro' the ſkies;</l>
                   <l>
-                     <pb n="54" facs="tcp:024777_0057_0FC87DB6EC13E7B0"/>
+                     <pb n="54" facs="unknown:024777_0057_0FC87DB6EC13E7B0"/>
 His voice the elements obey—</l>
                   <l>Thro' all the earth extends his ſway.</l>
                   <l>His goodneſs all his creatures ſhare,</l>
@@ -2204,24 +2204,24 @@ His voice the elements obey—</l>
             </div>
          </div>
          <div n="2" type="part">
-            <pb n="55" facs="tcp:024777_0058_0FC87DB9283BB2A8"/>
+            <pb n="55" facs="unknown:024777_0058_0FC87DB9283BB2A8"/>
             <head>MISCELLANEOUS PIECES IN PROSE. PART II.</head>
             <div type="section">
                <head>On the Neceſſity of improving Time.</head>
                <p>HOW quick are the advances of time! The day is gone, almoſt as ſoon as dawned! The ſilent moments ſlip away inſenſibly! No thief ſteals more unperceived from the pillaged houſe. Wherever we are, however employed, time purſues his inceſſant courſe. Though we are liſtleſs and di<g ref="char:EOLhyphen"/>latory, the great meaſurer of our days paſſes on, in his unwearied career, and whirls our weeks, and months, and years away. Is it not then ſurpriſing<g ref="char:EOLhyphen"/>ly ſtrange, to hear ſome complain of the tediouſneſs of their time, and how heavy it hangs upon their hands? To ſee them contriving a variety of amu<g ref="char:EOLhyphen"/>ſing artifices to accelerate its flight, and get rid of its burden. Why, thoughtleſs mortals! need you urge the headlong torrent? Your days are ſwifter than a poſt, which carrying diſpatches of the utmoſt importance, with unremitted ſpeed ſcours the road. They paſs away like the nimble ſhips, which have wind in their wings, and ſkim along the watery
-<pb n="56" facs="tcp:024777_0059_0FC87DBF6FAEAA40"/>
+<pb n="56" facs="unknown:024777_0059_0FC87DBF6FAEAA40"/>
 plain. They haſten to their deſtined period with the rapidity of an eagle, which leaves the ſtormy blaſt behind her, while ſhe cleaves the air, and darts upon her prey.</p>
                <p>And, when it is gone, how ſhort it appears! When the fond eye beheld in perſpective, it ſeemed an extenſive plain; but on the retroſpective view, how wonderfully is the ſcene altered! The land<g ref="char:EOLhyphen"/>ſcape, large and ſpacious, which a warm fancy drew, brought to the teſt of cool experience, ſhrinks into a ſpan; juſt as the ſhores vaniſh, and mountains dwindle to a ſpot, when the ſailor, ſurrounded by ſkies and ocean, throws his laſt look on his native land.</p>
                <p>Shall we, then, be induſtrious to ſhorten what is no longer than a ſpan, or to quicken the pace of what is ever on the wing? Shall we ſquander away what is unutterably important, while it laſts; and when once departed, is altogether irrecoverable? Forbear the folly, forbear the deſperate extrava<g ref="char:EOLhyphen"/>gance. Shall we chide, as a loiterer, the arrow that boundeth from the ſtring; or ſweep away dia<g ref="char:EOLhyphen"/>monds, as the refuſe of our houſes? How parſimo<g ref="char:EOLhyphen"/>nious ſhould we be of our days; how carefully huſband our precious hours! They go indiſſolubly connected with happineſs or miſery. Improved, they are a ſure pledge of everlaſting glory; waſted, they are a ſad preface to never-ending confuſion and anguiſh. On theſe, therefore, our eternal all de<g ref="char:EOLhyphen"/>pends. And will an affair of ſuch unſpeakable weight, admit of a moment's delay, or conſiſt with the leaſt remiſſneſs?—Eſpecially ſince much of our
-<pb n="57" facs="tcp:024777_0060_0FC87DC0A8DD8088"/>
+<pb n="57" facs="unknown:024777_0060_0FC87DC0A8DD8088"/>
 appointed time is already elapſed, and the remainder is all uncertainty.</p>
                <p>But, ſuppoſe we had made a covenant with the grave, and were aſſured of reaching the age of Me<g ref="char:EOLhyphen"/>thuſelah, how ſoon would even ſuch a leaſe expire! Let it be extended yet farther, and made co-exiſtent with nature itſelf; yet, how ſpeedily will the con<g ref="char:EOLhyphen"/>ſummation of all things commence! For, yet a lit<g ref="char:EOLhyphen"/>tle while, and the commiſſioned archangel will lift his hand to heaven, and ſwear by the Almighty name, "That time ſhall be no longer." The abu<g ref="char:EOLhyphen"/>ſed opportunities will never return, and new oppor<g ref="char:EOLhyphen"/>tunities will never more be afforded. Then, ſhould negligent mortals wiſh ever ſo paſſionately, for a few moments only to be thrown back from opening eternity, thouſands of worlds would not be able to procure the grant.</p>
                <p>What inexpreſſible conſternation muſt overwhelm unthinking mortals, who have ſquandered their time in vice, when the general conflagration commences! That dreadful day will ſoon approach, "in which the heavens ſhall paſs away with a great noiſe, and the elements ſhall melt with fervent heat; the earth alſo, and all the works that are therein, ſhall be burnt up." That mighty hand, which once opened the windows from on high, and broke up the fountains of the great deep, will then unlock all the magazines of fire, and pour out a ſecond deluge upon the earth. The vengeful flames, kin<g ref="char:EOLhyphen"/>dled by the breath of the Almighty, will ſpread themſelves from the center to the circumference; nothing will withſtand their impetuoſity, nothing
-<pb n="58" facs="tcp:024777_0061_0FC87DC2272ADEE8"/>
+<pb n="58" facs="unknown:024777_0061_0FC87DC2272ADEE8"/>
 eſcape their rage. Magnificent palaces and ſolemn temples will be laid in aſhes: Spacious cities and impregnable towers buried in one ſmoaking maſs. Not only the productions of human art, but the works of almighty power, will be fuel for the de<g ref="char:EOLhyphen"/>vouring element. The mountains will melt, like the ſnows which cover their ſummits; and even the vaſt oceans ſerve only to augment the inconceivable rapidity and fury of the blaze.</p>
                <p>Theſe are events, the greatneſs of which nothing finite can meaſure. Such, as will cauſe whatever is conſiderable, or momentous, in the annals of all generations, to ſink into littleneſs and nothing. Events, big with the everlaſting fates of all the liv<g ref="char:EOLhyphen"/>ing and all the dead. We muſt ſee the graves cleaving, the ſea teeming, and ſwarms unſuſpected, crowds unnumbered, yea, multitudes of thronging nations riſing from both. We muſt ſee the world in flames; muſt ſtand at the diſſolution of all ter<g ref="char:EOLhyphen"/>reſtrial things, and be attendants on the burial of nature. We muſt ſee the vaſt expanſe of the ſky wrapped up like a ſcroll, and the incarnate God iſſuing from light inacceſſible, with ten thouſand times ten thouſand angels, to judge both men and devils. We muſt ſee the curtain of time dropt, ſee all eternity diſcloſed to view, and enter upon a ſtate of being that will never have an end.</p>
                <p>Ought we not, therefore, to huſband well every moment of our time, and take heed to our ways? Is there an inquiry, is there a care of greater, of equal, of comparable importance? For, other<g ref="char:EOLhyphen"/>wiſe,
-<pb n="59" facs="tcp:024777_0062_0FC87DC482905770"/>
+<pb n="59" facs="unknown:024777_0062_0FC87DC482905770"/>
 how ſhall we ſtand with boldneſs, when the ſtars of heaven fall from their orbs? How ſhall we look up with joy, and ſee our ſalvation drawing nigh, when the hearts of millions fail for fear?</p>
             </div>
             <div type="section">
@@ -2234,13 +2234,13 @@ how ſhall we ſtand with boldneſs, when the ſtars of heaven fall from their o
                <p>None ſhould deſpair, becauſe God can help them; and none ſhould preſume, becauſe God can croſs them.</p>
                <p>Exceſs of ſorrow is as fooliſh as profuſe laugh<g ref="char:EOLhyphen"/>ter. Loud mirth, or immoderate ſorrow; inequa<g ref="char:EOLhyphen"/>lity of behaviour, either in proſperity or adverſity, are alike diſgraceful in a man that is born to die.</p>
                <p>
-                  <pb n="60" facs="tcp:024777_0063_0FC87DC666979F98"/>
+                  <pb n="60" facs="unknown:024777_0063_0FC87DC666979F98"/>
 As there is no proſperous ſtate of life, with<g ref="char:EOLhyphen"/>out its calamities; ſo there is no adverſity without its benefits. Aſk the great and powerful, if they do not feel the pangs of envy and ambition? En<g ref="char:EOLhyphen"/>quire of the poor and needy, if they have not taſted the ſweets of quiet and contentment? Even under the pains of body, the infidelity of friends, or the miſconſtructions put upon our laudable ac<g ref="char:EOLhyphen"/>tions, our minds (when for ſome time accuſtomed to theſe preſſures) are ſenſible of ſecret flowings of comfort, the preſent reward of a pious reſig<g ref="char:EOLhyphen"/>nation. The evils of life appear like rocks and precipices, rugged and barren at a diſtance, but at our nearer approach, we find little fruitful ſpots, and refreſhing ſprings, mixed with the harſhneſs and deformity of nature.</p>
                <p>It may boldly be affirmed, that good men gene<g ref="char:EOLhyphen"/>rally reap more ſubſtantial benefit from their afflic<g ref="char:EOLhyphen"/>tions, than bad men do from their proſperities; and what they loſe in wealth, pleaſure, or honor, they gain with vaſt advantage in wiſdom, goodneſs, and tranquility of mind.</p>
                <p>Afflicton is ſpiritual phyſic for the ſoul. It is compared to a furnace; for as gold is tried and purified therein, ſo men are proved, and either pu<g ref="char:EOLhyphen"/>rified from their droſs, and fitted for good uſes, or entirely burnt up and undone for ever.</p>
                <p>Happy are they who, laboring under any kind of affliction, can ſay with Job, "When he hath tried me, I ſhall come forth as gold."</p>
                <p>Let a man live but two or three years without affliction, and he is almoſt good for nothing: he
-<pb n="61" facs="tcp:024777_0064_0FC87DCBEBCE89E0"/>
+<pb n="61" facs="unknown:024777_0064_0FC87DCBEBCE89E0"/>
 cannot pray nor meditate, nor keep his heart fixed upon ſpiritual things; but let God ſmite him in his child, health, or eſtate, now he can find his tongue and affections again; now he awakes, and falls to his duty in earneſt; now God has twice as much honor from him, as he had before. "Now, ſaith God, this amendment pleaſeth me; this rod was well beſtowed; I have diſappointed him to his great benefit and advantage." And thus God is in friendſhip with his people again.</p>
             </div>
             <div type="section">
@@ -2250,10 +2250,10 @@ cannot pray nor meditate, nor keep his heart fixed upon ſpiritual things; but l
                   </gap> time is already paſt: The enter<g ref="char:EOLhyphen"/>prizing and ſpirited ardor of youth being over, without having been applied to thoſe valuable pur<g ref="char:EOLhyphen"/>poſes for which it was given, all ambition of excel<g ref="char:EOLhyphen"/>ling upon <gap reason="illegible: indecipherable" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> and laudable ſchemes, quite ſtagnates. If they have not ſome poor expedient
-<pb n="62" facs="tcp:024777_0065_0FC87DCD829D47F0"/>
+<pb n="62" facs="unknown:024777_0065_0FC87DCD829D47F0"/>
 to deceive the time, or, to ſpeak more properly, to deceive themſelves, the length of a day will ſeem tedious to them, who, perhaps, have the unreaſon<g ref="char:EOLhyphen"/>ableneſs to complain of the ſhortneſs of life in ge<g ref="char:EOLhyphen"/>neral. When the former part of our life has been nothing but vanity, the latter end of it can be no<g ref="char:EOLhyphen"/>thing but vexation. In ſhort, we muſt be miſerable, without ſome employment to fix, or ſome amuſe<g ref="char:EOLhyphen"/>ment to diſſipate our thoughts: The latter we can<g ref="char:EOLhyphen"/>not command in all places, nor reliſh at all times; and therefore there is an abſolute neceſſity for the former. We may purſue this or that new pleaſure; we may be fond for a while of a new acquiſition; but when the graces of novelty are worn off, the briſkneſs of our firſt deſire is over, the tranſition is very quick and ſudden, from an eager fondneſs to a cool indifference. Hence there is a reſtleſs agita<g ref="char:EOLhyphen"/>tion in our minds, ſtill craving ſomething new, ſtill unſatisfied with it, when poſſeſſed; till melancholy increaſes, as we advance in years, like ſhadows lengthening towards the cloſe of day.</p>
                <p>Hence it is, that men of this ſtamp are continu<g ref="char:EOLhyphen"/>ally complaining that the times are altered for the worſe: Becauſe the ſprightlineſs of their youth re<g ref="char:EOLhyphen"/>preſented every thing in the moſt engaging light; and when men are in high good humour with themſelves, they are apt to be ſo with all around: The face of nature brightens up, and the ſun ſhines with a more agreeable luſtre: But when old age has cut them off from the enjoyment of falſe pleaſures, and habitual vice has given them a diſtaſte for the only true and laſting delights; when a retroſpect of
-<pb n="63" facs="tcp:024777_0066_0FC87DCEE5D7BE80"/>
+<pb n="63" facs="unknown:024777_0066_0FC87DCEE5D7BE80"/>
 their paſt lives preſents nothing to view but one wide tract of uncultivated ground; a ſoul diſtem<g ref="char:EOLhyphen"/>pered with ſpleen, remorſe, and an inſenſibility of each rational ſatisfaction, darkens and diſcolours every object; and the change is not in the times, but in them, who have been forſaken by thoſe gra<g ref="char:EOLhyphen"/>tifications which they would not forſake.</p>
                <p>How much otherwiſe is it with thoſe, who have laid up an inexhauſtible fund of knowledge! When a man has been laying out that time in the purſuit of ſome great and important truth, which others waſte in a circle of gay follies, he is conſcious of having acted up to the dignity of his nature; and from that conſciouſneſs there reſults that ſerene complacency, which, though not ſo violent, is much preferable to the pleaſures of the animal life.</p>
             </div>
@@ -2261,21 +2261,21 @@ their paſt lives preſents nothing to view but one wide tract of uncultivated g
                <head>ADDRESS TO THE SEA.</head>
                <p>HAIL! thou inexhauſtible ſource of wonder and contemplation! Hail! thou multitu<g ref="char:EOLhyphen"/>dinous ocean! whoſe waves chace one another down, like the generations of men; and after a momentary ſpace, are immerged for ever in obli<g ref="char:EOLhyphen"/>vion! Thy fluctuating waters waſh the variated ſhores of the world; and while they disjoin nati<g ref="char:EOLhyphen"/>ons, whom a nearer connexion would involve in perpetual war, they circulate their arts and their labors, and give health and plenty to mankind.</p>
                <p>How glorious—how awful the ſcenes thou diſ<g ref="char:EOLhyphen"/>playeſt!
-<pb n="64" facs="tcp:024777_0067_0FC87DD6303C0D90"/>
+<pb n="64" facs="unknown:024777_0067_0FC87DD6303C0D90"/>
 Whether we view thee when every wind is huſhed; when the morning ſun, as now, ſilvers the level line of the horizon, or when its evening track is marked with flaming gold, and thy unrip<g ref="char:EOLhyphen"/>pled boſom reflects the radiance of the overarch<g ref="char:EOLhyphen"/>ing heavens! Or whether we behold thee in thy terrors!—when the blackeſt tempeſt ſweeps the ſwelling billows, and the boiling ſurge mixes with the clouds—when death rides the ſtorm, and hu<g ref="char:EOLhyphen"/>manity drops a fruitleſs tear for the toiling mari<g ref="char:EOLhyphen"/>ner, whoſe heart is ſinking with diſmay!</p>
                <p>And yet, mighty deep! 'tis thy ſurface alone we view. Who can penetrate the ſecrets of thy wide domain? What eye can viſit thy immenſe rocks and caverns, that teem with life and vegeta<g ref="char:EOLhyphen"/>tion? or ſearch out the myriads of objects, whoſe beauties lie ſcattered over thy dread abimes?</p>
                <p>The mind ſtaggers with the immenſity of its own conceptions!—and when ſhe contemplates the <hi>flux</hi> and <hi>reflux</hi> of thy tides, which from the be<g ref="char:EOLhyphen"/>ginning of the world were never known to err, how does he ſhrink at the idea of that DIVINE POWER, which originally <hi>laid thy foundations ſo ſure,</hi> and whoſe omnipotent voice hath fixed the limits <hi>where thy proud waves ſhall be ſtayed!</hi>
                </p>
                <p>But from the ſpot where I am now ſitting, I muſt addreſs thee as that <hi>oblivious flood,</hi> into which we plunge to <hi>drown our infirmities.</hi> How many diſeaſes, real or imaginary, are now waſhing off under yonder range of canvaſs machines, drawn up in rows on the water, like a flying camp!</p>
                <p>The <hi>fine lady</hi> withdraws herſelf from the pleaſur<g ref="char:EOLhyphen"/>able
-<pb n="65" facs="tcp:024777_0068_0FC87DD7E90A5518"/>
+<pb n="65" facs="unknown:024777_0068_0FC87DD7E90A5518"/>
 tolls of high life, to new brace thoſe nerves which luxury hath relaxed.</p>
                <p>The <hi>glutton,</hi> who has eat away his ſtomach, ſo<g ref="char:EOLhyphen"/>licits from thee a new appetite.</p>
                <p>The <hi>antiquated virgin,</hi> who has ſhunned every warmer embrace, flies eager and unattired into thine.</p>
                <p>The <hi>young</hi> and the <hi>healthy,</hi> court thee for plea<g ref="char:EOLhyphen"/>ſure; the <hi>barren,</hi> to become fruitful; the <hi>debauche</hi> aſks of thee a reſtorative; the <hi>corpulent,</hi> a ſcour<g ref="char:EOLhyphen"/>ing; the <hi>feeble,</hi> ſtrength; the <hi>hypochondriac,</hi> ſpirits; and the numerous family of the <hi>rheumatic,</hi> a ſet of muſcles more pliant than thoſe they poſſeſs.</p>
                <p>What a world of <hi>wants!</hi> and what <hi>claims,</hi> boun<g ref="char:EOLhyphen"/>tiful Ocean, for thee to anſwer!</p>
                <p>Whether the diſeaſes of life multiply, or that thy <hi>medicinal virtues</hi> have been but lately diſcover<g ref="char:EOLhyphen"/>ed, is a queſtion which I leave to the deciſion of <hi>the college.</hi> Certain it is, that thy ſhores are daily more crowded with ſuppliants. Every little town thou waſheſt, ſo ſwarms now with a ſpecies of in<g ref="char:EOLhyphen"/>habitants, unknown to it in former times, that the ancient tenants of the place are compelled to ſtretch out their homely dwellings, into more ſpacious houſes, for the admiſſion of the migrating ſtranger! This circumſtance proves in one ſenſe, a conſider<g ref="char:EOLhyphen"/>able gain to them; but an evil that accrues from it is, that neither their manners, nor their mor<g ref="char:EOLhyphen"/>als, remain long what they were. The incurſions of the opulent and the profligate, diſturb their peaceful domains; while their <hi>examples</hi> excite de<g ref="char:EOLhyphen"/>ſires
-<pb n="66" facs="tcp:024777_0069_0FC87DD9665FF980"/>
+<pb n="66" facs="unknown:024777_0069_0FC87DD9665FF980"/>
 unfelt before; and being felt, cannot always be gratified, but at the expence of integrity.</p>
                <p>The old inhabitant poſſibly takes his revenge, by impoſing on the ſtranger as much as he can; but alas! how greatly is he a loſer on the whole!—Could he ever have reflexion enough to ſtrike the balance, he would find the gain which ariſes from the exerciſe of low cunning, is but a poor ex<g ref="char:EOLhyphen"/>change for that <hi>calm plainneſs,</hi> which is the mode<g ref="char:EOLhyphen"/>rator of the heart, and that <hi>ſimplicity,</hi> which is the guardian of virtue.</p>
             </div>
@@ -2297,16 +2297,16 @@ unfelt before; and being felt, cannot always be gratified, but at the expence of
                </lg>
                <bibl>PRIOR.</bibl>
                <p>THE miſeries to which human nature is liable, have often been the ſubject of contemplation. Viewing the gloomy ſide of the queſtion, the feel<g ref="char:EOLhyphen"/>ings
-<pb n="67" facs="tcp:024777_0070_0FC87DDE405AD200"/>
+<pb n="67" facs="unknown:024777_0070_0FC87DDE405AD200"/>
 of a benevolent heart are apt to be exceeding<g ref="char:EOLhyphen"/>ly agitated.</p>
                <p>Man is born unto trouble, as the ſparks fly up<g ref="char:EOLhyphen"/>ward; he cometh forth like a flower, and is cut down; he flouriſhes in health and vigour, but con<g ref="char:EOLhyphen"/>tinueth not; his days paſs like a ſhadow, and he is gone; he eateth in darkneſs, hath much ſorrow, and returneth to his original duſt, and no further remembrance of him remains.</p>
                <p>Death is the law of our nature, the debt which all muſt pay, and there is no diſcharge in that war. The works of nature wax old and decay: the lofti<g ref="char:EOLhyphen"/>eſt monuments of human art, pyramids, cities, ſtates and empires, have their periods, beyond which they will not endure. All things have a tendency to change; and man, amongſt the reſt of the cre<g ref="char:EOLhyphen"/>ation, when called by Providence, muſt ſubmit to part with the life which was given him. The great and the good, the wiſe and the prudent, the learn<g ref="char:EOLhyphen"/>ed and the ignorant, the renowned and the ob<g ref="char:EOLhyphen"/>ſcure, the prince and the peaſant, are all travelling the road which leads to the grave.</p>
                <p>The time of our departure is utterly uncertain, and the accidents which may deprive us of life are innumerable. An unexpected bruiſe, an undeſign<g ref="char:EOLhyphen"/>ed blow, a fall from a horſe, the ſcratch of a pin, the pairing of a nail, or the duſt of a wall, may be made the inſtruments of immediate death: thus An<g ref="char:EOLhyphen"/>acreon, the poet, was choaked with a grape-ſtone; Fabius, the Roman Senator, was ſuffocated with a ſingle hair in a draught of milk; Pope Alexander with a fly, which ſlew accidentally into his mouth;
-<pb n="68" facs="tcp:024777_0071_0FC87DDF6BE3A820"/>
+<pb n="68" facs="unknown:024777_0071_0FC87DDF6BE3A820"/>
 Homer died of grief; Sophocles with exceſs of joy; Dyoniſius with the good news of a victory he had obtained, and Aurelianus in the midſt of a dance.</p>
                <p>Diſeaſes and deaths, ſays an ingenious author, are ſecretly lurking every where; they are in our boſoms, in our bowels, in every thing we taſte, in every thing we enjoy. We have death dwelling with us in our houſes, walking with us in the fields, lying down with us in our beds, and wrapped about us in our very clothes, always ready, at the Divine command, to give the fatal blow. If Heaven per<g ref="char:EOLhyphen"/>mits, Benhadad is ſlain in his bed, and Ammon at his table; Belſhazzar in his cups, the Egyptian firſt<g ref="char:EOLhyphen"/>born in their ſleep; Saul in the field; Caeſar in the Senate; Caligula in the theatre; Antiochus in his coach; Zechariah in the temple, and Pope Victor at the ſacrament.</p>
                <p>To exclude from our thoughts that which can<g ref="char:EOLhyphen"/>not be avoided, betokens a weakneſs and timidity, which a wiſe and prudent man, who deſires to act his part with propriety, would not indulge. Medi<g ref="char:EOLhyphen"/>tation on death, which terminates every ſcene of the ſhort period of exiſtence allotted to man in this tranſitory ſtate, though gloomy, is intereſting, and may be highly beneficial; it induces us to enquire, wherefore we were made, to aſcertain the duties in<g ref="char:EOLhyphen"/>cumbent upon us, and to a ſerious and attentive practice of them. No event is more ſolemn and important, than that which is to cloſe the connec<g ref="char:EOLhyphen"/>tions of life. To prepare for this laſt hour is a mo<g ref="char:EOLhyphen"/>mentous object: to be able to meet it with a ration<g ref="char:EOLhyphen"/>al compoſure and dignity, calmneſs and fortitude,
-<pb n="69" facs="tcp:024777_0072_0FC87DE1AA3F9510"/>
+<pb n="69" facs="unknown:024777_0072_0FC87DE1AA3F9510"/>
 ſhould be the earneſt deſire, and engroſs the princi<g ref="char:EOLhyphen"/>pal attention of man.</p>
                <p>That we may have a peaceful and happy exit, when we are called to quit this mortal ſcene, it be<g ref="char:EOLhyphen"/>comes us to renounce the purſuits and indulgences of vice and error, and to walk in the paths of vir<g ref="char:EOLhyphen"/>tue, which alone lead to true felicity.</p>
                <p>"Boaſt not thyſelf of to-morrow; for thou knoweſt not what a day may bring forth."</p>
@@ -2316,17 +2316,17 @@ Homer died of grief; Sophocles with exceſs of joy; Dyoniſius with the good new
                <p>FINE parts, learning, or rank in life, without Virtue, are not ſufficient qualifications in a man whom you admit to your intimacy and friend<g ref="char:EOLhyphen"/>ſhip. You will derive more ſolid advantage, and profitable inſtruction, from one hour's converſe with a man of ſobriety and virtue, than from a year's intimacy with one of more ſhining talents, if joined with profligate principles, and a licentious conduct.</p>
                <p>The greater a bad man's accompliſhments are, the more dangerous he is to ſociety, and the leſs fit for a companion. Vice, in a pleaſing garb, is moſt likely to prove deſtructive.</p>
                <p>Reject the firſt intruſions of <hi>pride;</hi> "it was not made for man," and very ill becomes him. <hi>Pride</hi> is a <hi>Proteus,</hi> which, the more eaſily to gain admiſ<g ref="char:EOLhyphen"/>ſion in the mind, aſſumes innumerable forms; but there is one certain teſt, whereby it may always be diſcovered: all its ſecret ſuggeſtions centre in the
-<pb n="70" facs="tcp:024777_0073_0FC87DE44FFA7828"/>
+<pb n="70" facs="unknown:024777_0073_0FC87DE44FFA7828"/>
 exaltation of ſelf, and a comparative depreciation of others. At firſt a <hi>Pigmy,</hi> it ſecretly ſolicits an entrance into the mind; when once admitted, it will enlarge to a <hi>Monſter,</hi> and uſurp ſole dominion there. What, alas! has vain man to be proud of? If he be wiſe, wealthy, comely, and honorable, theſe are not ſelf-acquired accompliſhments, but the gracious gifts of his Creator, for which hum<g ref="char:EOLhyphen"/>ble thankſgiving is due. To whatever attainments he arrives, whatever excellencies he may poſſeſs, they all proceed from the bounty of that Being, who can diveſt him of them all in a moment, and leave him an idiot.</p>
                <p>If you conſider your own numerous imperfecti<g ref="char:EOLhyphen"/>ons, and the infinitely great obligations we are un<g ref="char:EOLhyphen"/>der to the Source of every Bleſſing, it will produce humility; and this is the moſt excellent ſtate of the human mind. In proportion as we are proud of our own accompliſhments, ſelf-confidence will enſue, which is the certain path to ruin. An hum<g ref="char:EOLhyphen"/>ble truſt in, and continual dependance upon, the greateſt and beſt of Beings, for ſtrength and pre<g ref="char:EOLhyphen"/>ſervation, is the only ſtate of ſafety, and will beſt promote our preſent, as well as eternal happineſs.</p>
                <p>Humility in ourſelves, will produce kindneſs for and from others. To be humble, kind, benevo<g ref="char:EOLhyphen"/>lent and grateful, is to poſſeſs a diſpoſition of mind ever acceptable to that God, whoſe Omniſcience pervades our moſt ſecret thoughts, as well as acti<g ref="char:EOLhyphen"/>ons; and pleaſing in the ſight of wiſe men. "The humble he will teach of his ways, and the meek he will lead in the paths of true judgment." Hap<g ref="char:EOLhyphen"/>py
-<pb n="71" facs="tcp:024777_0074_0FC87DE7C9124400"/>
+<pb n="71" facs="unknown:024777_0074_0FC87DE7C9124400"/>
 are the youth who are thus taught and led; the preſervation of Divine Providence will protect them here, and their end will be "joy unſpeaka<g ref="char:EOLhyphen"/>ble, and full of glory."</p>
                <p>Friendſhip is the balm of life; the "cordial drop" diſpenſed by Heaven to exhilarate its languor, and alleviate its cures; yet you can have but <hi>few</hi> friends in the extenſive ſenſe of the term. Such is the frailty and depravity of human nature, that a <hi>few</hi> only are ſuſceptible of, or know how to cul<g ref="char:EOLhyphen"/>tivate a true and laſting friendſhip. It is indeed a plant of celeſtial extract, "of tender violations apt to die:" an exotic on earth, it will not flouriſh in every ſoil. The man who, in the unreſerved open<g ref="char:EOLhyphen"/>neſs of his heart, expoſes his weakneſs freely (and if I may be allowed the metaphor) <hi>ſtrips himſelf naked</hi> before his ſuppoſed friends, will find among them more <hi>Hams</hi> than <hi>Japhets.</hi> Many who may be warm in the profeſſion friendſhip will, either from a fond deſire of revealing ſecrets, or the baſer motive of detraction, expoſe his failings with cru<g ref="char:EOLhyphen"/>el aggravations.</p>
                <p>The baſe officiouſneſs of ſuch detractors may, perhaps, receive approbation from the ſelf-righte<g ref="char:EOLhyphen"/>ous and the profane, for <hi>they</hi> will not conſider, that it is only exerciſed by the betrayers of friend<g ref="char:EOLhyphen"/>ſhip, to gain reputation on the compariſon, and to hide ſtill greater deformity in themſelves: therefore, in the choice of your friends, be cautious whom you admit under that ſacred character. A <hi>falſe</hi> friend will injure you more than a thouſand open enemies, and is, in reality, a very deſpicable character.</p>
             </div>
             <div type="section">
-               <pb n="72" facs="tcp:024777_0075_0FC87DECB0CDDDB0"/>
+               <pb n="72" facs="unknown:024777_0075_0FC87DECB0CDDDB0"/>
                <head>The Ornaments of Youth.</head>
                <p>AMONG all the accompliſhments of youth, there is none preferable to a decent and agreeable behaviour among men, a modeſt freedom of ſpeech, a ſoft and elegant manner of addreſs, a graceful and lovely deportment, a cheerful gravity and good humour, with a mind appearing ever ſe<g ref="char:EOLhyphen"/>rene under the ruffling accidents of human life: Add to this, a pleaſing ſolemnity and reverence, when the diſcourſe turns upon any thing ſacred and divine; a becoming neglect of injuries, and hatred of calumny and ſlander; a habit of ſpeaking well of others; a pleaſing benevolence and readineſs to do good to mankind, and ſpecial compaſſion to the mi<g ref="char:EOLhyphen"/>ſerable; with an air and countenance expreſſive of all theſe excellent qualifications.</p>
             </div>
@@ -2334,19 +2334,19 @@ are the youth who are thus taught and led; the preſervation of Divine Providenc
                <head>Soliloquy on Human Life.</head>
                <p>WHAT are Life's miſeries, or what its joys? We increaſe the former by our impatience; and by raiſing our expectations too high, diſappoint ourſelves in the latter.</p>
                <p>Experience has taught me theſe truths, ſaid I; and the more I ſee of the world, the more I am convinced, that man has created more wretched<g ref="char:EOLhyphen"/>neſs, diſeaſes, and diſſatisfaction for himſelf, than the bountiful founder of the world deſigned he ſhould encounter, "What a number of diſtem<g ref="char:EOLhyphen"/>pers have luxury, vice and pleaſure brought upon
-<pb n="73" facs="tcp:024777_0076_0FC87DEE754DD408"/>
+<pb n="73" facs="unknown:024777_0076_0FC87DEE754DD408"/>
 the deſcendants of Adam? How many are daily toiling, and ſuffering a thouſand hardſhips, in order to increaſe their ſubſtance? The good of their children is their excuſe: the love of wealth alone actuates others to put in practice a thouſand arts of deceit and chicanery, in order to obtain the prize in view. But why ſhould we ſuppoſe that riches will give happineſs to our children, when it has ſo often been ſeen to have a contrary effect on ourſelves? Or of what value is gold to him, who has more than enough to ſupply his wants, yet lets it remain untouched in his coffers? We envy thoſe we think happier than ourſelves, and by ſo doing, encreaſe our diſcontents. But why ſhould I dwell longer on the weakneſs, madneſs, and folly of others, when I myſelf am a compound of the ſame materials! What is all my boaſted philoſophy, when I am led by others to follow their example, and tri<g ref="char:EOLhyphen"/>fle away moments which are too precious to be ſo fooliſhly ſquandered?</p>
             </div>
             <div type="section">
                <head>HOW TO ENJOY LIFE.</head>
                <p>ONE ſeldom goes into mixed company, with<g ref="char:EOLhyphen"/>out hearing, if the converſation grows ſeri<g ref="char:EOLhyphen"/>ous, frequent complaints againſt life, <abbr>viz.</abbr> 
                   <hi>That it is nothing but one dull round of the ſame enjoyments, over and over again; that thoſe pleaſures that ap<g ref="char:EOLhyphen"/>peared ſo tempting</hi> unpoſſeſt—poſſeſt, <hi>are trifling, and not worth living for; that we riſe up to eat and drink, and pay a few ridiculous viſits, and then lie
-<pb n="74" facs="tcp:024777_0077_0FC87DEFF1CECF08"/>
+<pb n="74" facs="unknown:024777_0077_0FC87DEFF1CECF08"/>
 down again to ſleep; that even this</hi> happy ſtate <hi>is often interrupted by ſickneſs, or one diſappointment or other; and that at laſt old age comes on, robs us of our health and ſenſes, and renders us the object of the contempt of the younger, till death cloſes the ſcene.</hi>
                </p>
                <p>If we conſider life in the contracted view of theſe murmurers, and make it conſiſt only in ſo ridicu<g ref="char:EOLhyphen"/>lous a rotation, life would indeed become a burthen; but if we employ the nobler powers we have, in conſidering what life is, and act in conſequence of ſuch knowledge, we ſhall find a ſcene of ſo exalted and dignified a nature, that we ſhall be apt to think the ſpectacle Providence has introduced us to, by veſting us with human faculties, ſo noble, that we ſhould ſtand indebted only for one day's acquaint<g ref="char:EOLhyphen"/>ance with it.</p>
                <p>Life, properly underſtood, offers to the human creature an unlimited ſcene of pleaſure: but if he will confine his own ſphere of action in a narrower compaſs than his powers extend, whom can he blame? If, inſtead of employing his reaſon in con<g ref="char:EOLhyphen"/>ſidering the various parts of the univerſe, and ac<g ref="char:EOLhyphen"/>quiring a knowledge productive of the nobleſt hap<g ref="char:EOLhyphen"/>pineſs, he will make no manner of uſe of thoſe fa<g ref="char:EOLhyphen"/>culties he is maſter of, but bury his ſenſes in the groſſer part of himſelf, it is no wonder if he finds the enjoyments of life trivial, few, and not worth living for. A man who makes no other uſe of life than what his animal frame points to, muſt of courſe find a void in happineſs; ſince the ſenſes gratified, the little reaſon he has is juſt enough to make him feel a want, and that want to make him
-<pb n="75" facs="tcp:024777_0078_0FC87DF17B096B28"/>
+<pb n="75" facs="unknown:024777_0078_0FC87DF17B096B28"/>
 repine. The ſenſes, as part of the human conſti<g ref="char:EOLhyphen"/>tution, have indeed a natural right to be indulged, but ſtill <hi>ſubordinately.</hi>
                </p>
                <p>If theſe complaints were only in the mouths of the ſenſual or ignorant, or the poorer part of man<g ref="char:EOLhyphen"/>kind, I ſhould not be ſo much ſurprized; but when I hear perſons of tolerable good ſenſe talk in this manner, it raiſes a ſort of indignation in me at their ingratitude. For my part, when I conſider man<g ref="char:EOLhyphen"/>kind in their different purſuits of pleaſure, all actu<g ref="char:EOLhyphen"/>ated by the ſame principle, inſtead of arraigning, I cannot but admire the wonderful ſagacity of Provi<g ref="char:EOLhyphen"/>dence, who has beſtowed ſuch a variety of enter<g ref="char:EOLhyphen"/>tainments to pleaſe the contrary taſtes of each par<g ref="char:EOLhyphen"/>ticular perſon.</p>
@@ -2357,7 +2357,7 @@ repine. The ſenſes, as part of the human conſti<g ref="char:EOLhyphen"/>tutio
                <p>THE charms of rural nature, eſpecially in the months of ſpring and ſummer, afford pleaſure <gap reason="illegible: indecipherable" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> the eye, fruit to the taſte, muſic to the ear, and inſtruction to the mind; the birds on every bough, the flowers on every ſide, and variegated ſcenes preſented to the view around, all conſpire to excite
-<pb n="76" facs="tcp:024777_0079_0FC87DF8D7A22FA8"/>
+<pb n="76" facs="unknown:024777_0079_0FC87DF8D7A22FA8"/>
 pleaſure, admiration, and devout acknowledgments in the thinking and ſerious ſpectator, while ſun, moon, ſtars, and all the orbs above appear
 <q>
                      <l>"To ſing the God of Seaſons as they roll."</l>
@@ -2375,13 +2375,13 @@ pleaſure, admiration, and devout acknowledgments in the thinking and ſerious �
                </lg>
             </div>
             <div type="section">
-               <pb n="77" facs="tcp:024777_0080_0FC87DF9B0CB0338"/>
+               <pb n="77" facs="unknown:024777_0080_0FC87DF9B0CB0338"/>
                <head>ON REPROOF.</head>
                <p>NOTHING is more common than to give re<g ref="char:EOLhyphen"/>proof to others; nothing more diſpleaſing to many than to receive it themſelves. Inſtructions flatter the ſelf-love of him who gives them, and de<g ref="char:EOLhyphen"/>note his ſuperiority over him who is inſtructed: he is pleaſed at thinking himſelf wiſe enough to direct the conduct of another, and yet has not the power to follow his own good counſels. To receive advice gives us diſpleaſure, as it ſhews us our folly or our vices are known to the world: and however weak or vicious men may be, few but have ſuch an opi<g ref="char:EOLhyphen"/>nion of their wiſdom, or are not ſo far paſt ſhame, but it gives them ſome uneaſineſs to be found out.</p>
                <p>The cenſuring of faults in our friends has been attributed, and not unjuſtly, more to pride than love or charity, as we endeavour not ſo much to correct, as to make them believe we are without them ourſelves. Such a reproof is only a cover to our own hypocriſy.</p>
                <p>
                   <hi>Reproof,</hi> as Wycherly ſomewhere obſerves, <hi>is often to the weak mind what phyſic is to the weak body</hi>—<hi>which either, not timed ſeaſonably, or given in too great a quantity, makes the remedy worſe than the diſeaſe.</hi> Nothing requires more care, experience and knowledge, than the office of a reprover. He who would correct his friend muſt do it with cau<g ref="char:EOLhyphen"/>tion, and make a nice choice of a convenient time and place: he ſhould be free alſo from prejudice, paſſion and invective, and conſult the temper of him to whom he ſpeaks, that he may talk to him in that
-<pb n="78" facs="tcp:024777_0081_0FC87DFB27546F88"/>
+<pb n="78" facs="unknown:024777_0081_0FC87DFB27546F88"/>
 manner which is moſt ſuitable to it.—To do all this is not ſo eaſy a taſk.</p>
                <p>Though there are many abſurdities in giving re<g ref="char:EOLhyphen"/>proof, there are ſome alſo in receiving it. To re<g ref="char:EOLhyphen"/>prove a ſelf-opinioniſt, though with ever ſo much caution and friendſhip, as it calls his own conduct in queſtion, will be only affronting him; he cannot bear to think he has acted fooliſhly, or at leaſt that any one has perceived it. Many receive the reproof of their friends according to the dignity of the re<g ref="char:EOLhyphen"/>prover; they have a pride in being inſtructed by ſome one above them, but cannot bear advice from an equal.</p>
                <p>No one is either too wiſe or too good to be re<g ref="char:EOLhyphen"/>proved: therefore when reproof is juſt and gentle, it ſhould be eſteemed as the kindeſt office of a friend. To give reproof is the moſt difficult. He who ſets up for a reformer of others, ought always to watch over himſelf; for ſhould he happen to fall into the frailty he condemns, he affords a public ſcene of laughter and ridicule.</p>
@@ -2390,7 +2390,7 @@ manner which is moſt ſuitable to it.—To do all this is not ſo eaſy a taſk
                <head>The Charms of Virtue.</head>
                <p>THE enjoyment of Virtue is wholly internal, and the chief pleaſure of her real votaries, that of doing good.</p>
                <p>God, in his divine mercy, ſays Sadi the Philo<g ref="char:EOLhyphen"/>ſopher, introduced a certain vicious man into a ſo<g ref="char:EOLhyphen"/>ciety of religious, whoſe manners were pure and holy. Struck with their virtues, he quickly began
-<pb n="79" facs="tcp:024777_0082_0FC87E00526D7BC8"/>
+<pb n="79" facs="unknown:024777_0082_0FC87E00526D7BC8"/>
 to imitate them, and ſhake off all his former ha<g ref="char:EOLhyphen"/>bits; in a word, to be a model of juſtice, ſobriety, patience, induſtry and benevolence. His good works were undeniable, but people imputed them to un<g ref="char:EOLhyphen"/>worthy motives. They were always for judging of him by what he had been, not by what he was.—Overwhelmed with ſorrow, he poured forth his tears into the boſom of an ancient Solitary, who was more juſt, as well as more humane, than the reſt.</p>
                <p>"O my ſon," ſaid the old man to him, "return thanks to the Almighty, that thou art ſuperior to thy reputation. Happy is he who can ſay, My ene<g ref="char:EOLhyphen"/>mies and rivals ſtigmatize me for vices of which I am not guilty. If thou art good, what matters it to thee, that men perſecute and even puniſh them as being one of the wicked? Haſt thou not, for thy comfort, two unerring teſtimonies of thy acti<g ref="char:EOLhyphen"/>ons, God and thy Conſcience?"</p>
             </div>
@@ -2399,7 +2399,7 @@ to imitate them, and ſhake off all his former ha<g ref="char:EOLhyphen"/>bits; 
                <p>LET not ſleep, ſays Pythagoras, fall upon thy eyes, till thou haſt thrice reviewed the tranſ<g ref="char:EOLhyphen"/>actions of the preſent day. Where have I turned aſide from rectitude? What have I been doing? What have I left undone, which ought to have been done? Begin thus from the firſt act, and proceed; and in the concluſion, at the ill which thou haſt done be troubled, and rejoice for the good.</p>
             </div>
             <div type="section">
-               <pb n="80" facs="tcp:024777_0083_0FC87E02B644CE98"/>
+               <pb n="80" facs="unknown:024777_0083_0FC87E02B644CE98"/>
                <head>Rules out of Ptolemy's Golden Table.</head>
                <p>I NEVER exalted the proud rich man, nor hat<g ref="char:EOLhyphen"/>ed the poor juſt man. I never denied juſtice to the poor for poverty, nor pardoned the wealthy for his riches. I never gave reward for affectation, nor puniſhment upon paſſion. I never ſuffered evil to eſcape unpuniſhed, nor goodneſs unreward<g ref="char:EOLhyphen"/>ed. I never denied juſtice to him that aſked it, nor mercy to him that deſerved it. I never puniſhed in anger, nor promiſed in mirth. I never did evil upon malice, nor good for covetouſneſs. I always ſought to be loved by the good, and feared by the wicked. I always favored the poor, that were able to do little, and God, who was able to do much, favored me.</p>
             </div>
